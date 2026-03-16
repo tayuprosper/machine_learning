@@ -1,0 +1,21 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# IDE and OS Files
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter Notebooks (For when we start using them)
+.ipynb_checkpoints/
+
+# Data (Never push raw datasets to GitHub!)
+data/
+*.csv
