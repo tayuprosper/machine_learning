@@ -48,7 +48,7 @@ In modern MLOps, engineers rely on PyTorch or TensorFlow for production. However
 
     [x] Logistic Regression (Binary Classification)
 
-    [ ] Softmax Regression (Multi-class Classification) - In Progress
+    [x] Softmax Regression (Multi-class Classification) - In Progress
 
     [ ] Multi-Layer Perceptron (MLP)
 
