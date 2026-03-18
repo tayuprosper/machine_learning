@@ -41,7 +41,7 @@ No high-level ML frameworks (like Scikit-Learn or PyTorch) are used for the core
     Install the required dependencies:
     Bash
 
-    pip install numpy matplotlib scikit-learn
+    pip install -r requirements.txt
 
 🧠 Why Build From Scratch?
 
