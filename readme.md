@@ -50,7 +50,9 @@ In modern MLOps, engineers rely on PyTorch or TensorFlow for production. However
 
     [x] Softmax Regression (Multi-class Classification) - In Progress
 
-    [ ] Multi-Layer Perceptron (MLP)
+    [x] Multi-Layer Perceptron (MLP)
+
+    [ ] Convolutional Nerual Network ( Computer Vission )
 
 
 # Note:
