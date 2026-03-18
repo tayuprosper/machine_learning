@@ -13,7 +13,11 @@ No high-level ML frameworks (like Scikit-Learn or PyTorch) are used for the core
   * Contains the `LogisticRegressor` class.
   * **Concepts covered:** Sigmoid activation, Binary Cross-Entropy (Log Loss), feature scaling (Standardization), and classification thresholds.
   * Includes a real-world evaluation script tested on the Breast Cancer Wisconsin dataset, featuring custom implementations of a Confusion Matrix, Precision, Recall, and F1-Score metrics.
-
+* `mlp/`
+  * Contain the 'NeuralNetwork` class.
+  * **Concept Covered:** multi layer peceptron Finding more complex relationships in data
+  beacuse linear regression becomes useless when data is does not have a lenear relationship
+  * Also added relu activation and _one_hot conversions for fixing scores from the input data to fit the format predicted. 
 ## 🛠️ Tech Stack
 
 * **Python 3.x**
