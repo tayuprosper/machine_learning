@@ -48,13 +48,12 @@ In modern MLOps, engineers rely on PyTorch or TensorFlow for production. However
 
     [x] Logistic Regression (Binary Classification)
 
-    [x] Softmax Regression (Multi-class Classification) - In Progress
+    [x] Softmax Regression (Multi-class Classification)
 
     [x] Multi-Layer Perceptron (MLP)
 
-    [ ] Convolutional Nerual Network ( Computer Vission )
+    [ ] Convolutional Nerual Network ( Computer Vission ) - Next to tackle
 
 
 # Note:
 ## This readme was generated with an LLM. Factcheck important info
-
